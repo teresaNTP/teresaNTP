@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Natasha Silva
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Me chamo Natasha Silva!
+- 👀 Gosto de me aventurar no mundo da programação e descobrir novos horizontes.
+- 🌱 Atualmento estou estudando HTML, CSS, Javascript e Node.js.
+- 💞️ Sempre a procura de novas oportunidades.
+- 📫 Para entrar em contato o meu email é: natashateresa1998@gmail.com
 
 <!---
 teresaNTP/teresaNTP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
