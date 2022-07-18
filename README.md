@@ -1,3 +1,5 @@
+
+
 - 👋 Me chamo Natasha Silva!
 - 👀 Gosto de me aventurar no mundo da programação e descobrir novos horizontes.
 - 🌱 Atualmento estou estudando HTML, CSS, Javascript, NodeJS, SQL.
@@ -6,6 +8,9 @@
 
 
 ![teresaNTP's GitHub stats](https://github-readme-stats.vercel.app/api?username=teresaNTP&show_icons=true&theme=merko)
+
+
+
 
 
 <!---
