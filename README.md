@@ -1,8 +1,12 @@
 - 👋 Me chamo Natasha Silva!
 - 👀 Gosto de me aventurar no mundo da programação e descobrir novos horizontes.
-- 🌱 Atualmento estou estudando HTML, CSS, Javascript e React.
+- 🌱 Atualmento estou estudando HTML, CSS, Javascript, NodeJS, SQL.
 - 💞️ Sempre a procura de novas oportunidades.
 - 📫 Para entrar em contato o meu email é: natashateresa1998@gmail.com
+
+
+![teresaNTP's GitHub stats](https://github-readme-stats.vercel.app/api?username=teresaNTP&show_icons=true&theme=merko)
+
 
 <!---
 teresaNTP/teresaNTP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
