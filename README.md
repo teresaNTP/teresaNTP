@@ -2,7 +2,7 @@
 
 - 👋 Me chamo Natasha Silva!
 - 👀 Gosto de me aventurar no mundo da programação e descobrir novos horizontes.
-- 🌱 Atualmento estou estudando HTML, CSS, Javascript, NodeJS, SQL.
+- 🌱 Atualmento estou estudando HTML (1 ano e meio), CSS (1 ano e meio), Javascript (1 ano), NodeJS (3 meses), SQL (1 mês).
 - 💞️ Sempre a procura de novas oportunidades.
 - 📫 Para entrar em contato o meu email é: natashateresa1998@gmail.com
 
