@@ -10,7 +10,7 @@
 ![teresaNTP's GitHub stats](https://github-readme-stats.vercel.app/api?username=teresaNTP&show_icons=true&theme=merko)
 
 
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=teresaNTP)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
