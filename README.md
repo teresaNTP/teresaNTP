@@ -13,6 +13,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=teresaNTP&layout=compact"/>
 
-
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=teresaNTP&repo=ElasNaTech-Site"/>
 
 
